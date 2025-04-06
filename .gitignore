@@ -1,0 +1,5 @@
+# filepath: c:\Users\leeyo\Documents\Exercise\.gitignore
+greetings.db
+__pycache__/
+*.pyc
+.vscode/
